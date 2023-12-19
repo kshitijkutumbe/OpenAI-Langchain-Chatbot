@@ -1,6 +1,5 @@
 # Chatbot Implementations with Langchain + Streamlit
-
-![2023-12-19 22-24-37 (4)](https://github.com/kshitijkutumbe/OpenAI-Langchain-Chatbot/assets/153611789/5d89d5ad-da16-4145-8fc7-241e10ecc838)
+https://github.com/kshitijkutumbe/OpenAI-Langchain-Chatbot/assets/153611789/42c67b0d-7052-44d1-987d-31a6897d6ea2
 
 Langchain is a powerful framework designed to streamline the development of applications using Language Models (LLMs). \
 It provides a comprehensive integration of various components, simplifying the process of assembling them to create robust applications.
